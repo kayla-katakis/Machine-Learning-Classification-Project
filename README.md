@@ -4,4 +4,4 @@
 
 ### Specifically, this project looks at predicting the classification of stellar phenomena as stars, galazies, or quasars based on photometric data from the Sloan Digital Sky Survey through exploratory visual analysis, model setup/building, and performance evaluation.
 
-### Please, refer to the Predicting Stellar Classifications PDF file for further background and citations as well as the analysis itself!
+### Note: Working with such a large dataset caused the parameter tuning and model fitting to take an unusual amount of time, so these object were stored as .RData files and later loaded into the Markdown file to improve runtime. However, these files were too large to import into GitHub, so the Rmd file may not run if downloaded. Instead, refer to the HTML or PDF files to see this project in its entirety!
